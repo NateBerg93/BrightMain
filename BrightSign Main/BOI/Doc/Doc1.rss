@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wallboard Ticker</title>
+    <description />
+    <language>en-us</language>
+    <item>
+      <title>Doc Item 1</title>
+      <pubDate>Thu, 23 Jan 2020 12:07:54 -0700</pubDate>
+      <description><![CDATA[Overtime is open]]></description>
+    </item>
+	    <item>
+      <title>Doc Item 2</title>
+      <pubDate>Thu, 23 Jan 2020 12:07:54 -0700</pubDate>
+      <description><![CDATA[Email audit has begun]]></description>
+    </item>
+		    <item>
+      <title>Doc Item 3</title>
+      <pubDate>Thu, 23 Jan 2020 12:07:54 -0700</pubDate>
+      <description><![CDATA[Great job on the January call audits!]]></description>
+    </item>
+  </channel>
+</rss>

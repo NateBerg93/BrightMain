@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wallboard Ticker</title>
+    <description />
+    <language>en-us</language>
+    <item>
+      <title>Import Item 1</title>
+      <pubDate>Thu, 23 Jan 2020 12:07:54 -0700</pubDate>
+      <description><![CDATA[Happy New Year Everyone!]]></description>
+    </item>
+  </channel>
+</rss>
